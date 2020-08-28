@@ -1,0 +1,24 @@
+{
+  "name": "Projeto2",
+  "version": "1.0.0",
+  "description": "Projeto criado com a finalidade de estudar conceitos de programação funcional e reativa com javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfirmino/Funcional-Reativo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfirmino/Funcional-Reativo/issues"
+  },
+  "homepage": "https://github.com/dfirmino/Funcional-Reativo#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "rxjs": "^6.6.2"
+  }
+}
